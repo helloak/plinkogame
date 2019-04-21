@@ -33,3 +33,6 @@ Function knn    - To implement KNN algorithm
 Function distance - Check the distance between multiple features 
 Function splitDataset - To split data into testSet and trainingSet
 Function minMax - To achieve Normalisation
+
+
+Utility Library used: Lodash
